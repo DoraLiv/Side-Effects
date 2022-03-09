@@ -1,0 +1,15 @@
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\bin\Debug\net6.0\SGT-practical-training.exe
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\bin\Debug\net6.0\SGT-practical-training.deps.json
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\bin\Debug\net6.0\SGT-practical-training.runtimeconfig.json
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\bin\Debug\net6.0\SGT-practical-training.dll
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\bin\Debug\net6.0\SGT-practical-training.pdb
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.csproj.AssemblyReference.cache
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.AssemblyInfoInputs.cache
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.AssemblyInfo.cs
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.csproj.CoreCompileInputs.cache
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.dll
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\refint\SGT-practical-training.dll
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.pdb
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\SGT-practical-training.genruntimeconfig.cache
+C:\Users\doral\source\repos\Side-Effects\SGT-practical-training\SGT-practical-training\obj\Debug\net6.0\ref\SGT-practical-training.dll
