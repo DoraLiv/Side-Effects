@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\SGT-practical-training\\SGT-practical-training\\SGT-practical-training.csproj",
-      "projectName": "SGT-practical-training",
-      "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\SGT-practical-training\\SGT-practical-training\\SGT-practical-training.csproj",
+      "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj",
+      "projectName": "Arrays",
+      "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\SGT-practical-training\\SGT-practical-training\\obj\\",
+      "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Arrays\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",
