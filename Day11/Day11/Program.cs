@@ -23,11 +23,8 @@ answer[1] = 2;
 answer[2] = 9;
 
 int[] guess = new int[3];
-guess[0] = 0;
-guess[1] = 0;
-guess[2] = 0;
 bool game = true;
-Console.WriteLine($"{guess[0]} {guess[1]} {guess[2]}");
+
 while (game)
 {//can be written outside the loop as well - then it will appear only at the beginning
     Console.WriteLine("Enter a number 1-10:");
@@ -52,18 +49,12 @@ while (game)
         default:
             Console.WriteLine("You are wrong!");
             break;
-                      
     }
-    Console.WriteLine($"{guess[0]} {guess[1]} {guess[2]}");
+    Console.WriteLine($"You have correctly guessed {guess[0]} {guess[1]} {guess[2]}");
     bool isEqual = Enumerable.SequenceEqual(guess, answer);
     if (isEqual == true)
-     {
+    {
         game = false;
-     }
+        Console.WriteLine("Congrats! You won!");
+    }
 }
-
-
-
-
-
-
