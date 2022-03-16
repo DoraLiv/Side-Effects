@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day9.csproj",
+        "projectName": "Day9",
+        "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day9.csproj",
         "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",
