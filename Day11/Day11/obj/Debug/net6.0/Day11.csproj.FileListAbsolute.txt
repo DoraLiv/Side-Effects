@@ -1,0 +1,15 @@
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\bin\Debug\net6.0\Day11.exe
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\bin\Debug\net6.0\Day11.deps.json
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\bin\Debug\net6.0\Day11.runtimeconfig.json
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\bin\Debug\net6.0\Day11.dll
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\bin\Debug\net6.0\Day11.pdb
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.csproj.AssemblyReference.cache
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.AssemblyInfoInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.AssemblyInfo.cs
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.csproj.CoreCompileInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.dll
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\refint\Day11.dll
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.pdb
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\Day11.genruntimeconfig.cache
+C:\Users\doral\source\repos\Side-Effects\Day11\Day11\obj\Debug\net6.0\ref\Day11.dll

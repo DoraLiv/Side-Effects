@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day10.csproj": {}
+    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day11\\Day11\\Day11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day10.csproj": {
+    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day11\\Day11\\Day11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day10.csproj",
-        "projectName": "Day10",
-        "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\Day10.csproj",
+        "projectUniqueName": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day11\\Day11\\Day11.csproj",
+        "projectName": "Day11",
+        "projectPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day11\\Day11\\Day11.csproj",
         "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day9\\Day9\\obj\\",
+        "outputPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day11\\Day11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -183,7 +183,7 @@ for (int i = 0; i < 3; i++)
 }
 Console.WriteLine("\n");
 */
-
+/*
 float[,] table2 = new float[3, 5];
     var r2 = new Random();
     float sumofarray = 0;
@@ -191,7 +191,6 @@ float[,] table2 = new float[3, 5];
     for (int i = 0; i < 3; i++)
     { 
         float sumrow = 0;
-        
         for (int j = 0; j < 5; j++)
         {
             table2[i, j] = r2.Next(0, 100);
@@ -200,10 +199,8 @@ float[,] table2 = new float[3, 5];
                  
         }
         sumofarray +=sumrow;
-        
-        Console.Write($" the sum of the row is {sumrow}");
+                Console.Write($" the sum of the row is {sumrow}");
         Console.WriteLine();
-            
     }
 
 Console.WriteLine();
@@ -225,4 +222,45 @@ float sumofarray2 = 0;
 }
 Console.WriteLine($"\nSum of the array rows is {sumofarray} = sum of the array columns {sumofarray3}" );
 Console.WriteLine($"Sum of the array elements is {sumofarray2}" );
+*/
+
+//with .GetLenght(0) - y axis, .GetLength(1) - x asis
+float[,] table2 = new float[3, 5];
+var r2 = new Random();
+float sumofarray = 0;
+
+for (int i = 0; i < table2.GetLength(0); i++)
+{
+    float sumrow = 0;
+    for (int j = 0; j < table2.GetLength(1); j++)
+    {
+        table2[i, j] = r2.Next(0, 100);
+        Console.Write($"{table2[i, j]}  ");
+        sumrow += table2[i, j];
+
+    }
+    sumofarray +=sumrow;
+    Console.Write($" the sum of the row is {sumrow}");
+    Console.WriteLine();
+}
+
+Console.WriteLine();
+float sumofarray3 = 0;
+for (int i = 0; i < table2.GetLength(1); i++)
+{
+    float sumcolumn = 0;
+    for (int j = 0; j < table2.GetLength(0); j++)
+    {
+        sumcolumn += table2[j, i];
+    }
+    Console.Write($"{sumcolumn} ");
+    sumofarray3 += sumcolumn;
+}
+float sumofarray2 = 0;
+foreach (int k in table2)
+{
+    sumofarray2 += k;
+}
+Console.WriteLine($"\nSum of the array rows is {sumofarray} = sum of the array columns {sumofarray3}");
+Console.WriteLine($"Sum of the array elements is {sumofarray2}");
 
