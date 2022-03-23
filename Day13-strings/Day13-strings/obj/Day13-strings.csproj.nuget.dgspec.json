@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day9\\Day9\\Day10.csproj": {}
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day13-strings\\Day13-strings\\Day13-strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day9\\Day9\\Day10.csproj": {
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day13-strings\\Day13-strings\\Day13-strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day9\\Day9\\Day10.csproj",
-        "projectName": "Day10",
-        "projectPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day9\\Day9\\Day10.csproj",
+        "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day13-strings\\Day13-strings\\Day13-strings.csproj",
+        "projectName": "Day13-strings",
+        "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day13-strings\\Day13-strings\\Day13-strings.csproj",
         "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day9\\Day9\\obj\\",
+        "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day13-strings\\Day13-strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",

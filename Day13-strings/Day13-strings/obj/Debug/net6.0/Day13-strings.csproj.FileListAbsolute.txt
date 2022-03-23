@@ -1,0 +1,15 @@
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.csproj.AssemblyReference.cache
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.AssemblyInfoInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.AssemblyInfo.cs
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.csproj.CoreCompileInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\bin\Debug\net6.0\Day13-strings.exe
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\bin\Debug\net6.0\Day13-strings.deps.json
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\bin\Debug\net6.0\Day13-strings.runtimeconfig.json
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\bin\Debug\net6.0\Day13-strings.dll
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\bin\Debug\net6.0\Day13-strings.pdb
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.dll
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\refint\Day13-strings.dll
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.pdb
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\Day13-strings.genruntimeconfig.cache
+C:\Users\doral\source\repos\Side-Effects\Day13-strings\Day13-strings\obj\Debug\net6.0\ref\Day13-strings.dll
