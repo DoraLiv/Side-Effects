@@ -51,7 +51,7 @@ do
                 {
                     cCount=0;
                     char first = firstletter [0];
-                    for (int i = 0; i < cities.Length; i++)
+                    /*for (int i = 0; i < cities.Length; i++)
                     {
                         int j = 1;
                         var cityName = cities[i];
@@ -65,10 +65,9 @@ do
                     }   
                     Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
                     Console.WriteLine(starts);
-                    /*
+                    */
                     Regex re = new Regex($"^{first}", RegexOptions.IgnoreCase);
                     int j = 1;
-                    cCount = 0;
                     for (int i = 0; i < cities.Length; i++)
                         if (re.IsMatch(cities[i]))
                         {
@@ -76,11 +75,11 @@ do
                             starts.Append($"{j}.{cities[i]}; ");
                             j++;
                         }
-                    */
-                    /*Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
+                    
+                    Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
                     Console.WriteLine(starts); 
                     Console.WriteLine();
-                    starts = new StringBuilder();*/
+                    starts = new StringBuilder();
                 }
                 else if (firstletter == "*")
                 {
