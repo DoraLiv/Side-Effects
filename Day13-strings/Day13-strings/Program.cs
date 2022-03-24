@@ -16,23 +16,25 @@ StringBuilder starts = new StringBuilder();
 StringBuilder ends = new StringBuilder();
 StringBuilder lettercount = new StringBuilder();
 StringBuilder contains = new StringBuilder();
-//StringBuilder substringEN = new StringBuilder();
-
+StringBuilder combo1 = new StringBuilder();
+StringBuilder combo2 = new StringBuilder();
 
 int cCount = 0;
-bool menuOn=true;
+bool menuOn = true;
 
 do
 {
-    Console.WriteLine("Please choose the search parameter:");
-    Console.WriteLine("1. Search by first letter");
-    Console.WriteLine("2. Search by last letter");
-    Console.WriteLine("3. search by the number of letters");
-    Console.WriteLine("4. search by partial match");
+    Console.WriteLine("Please choose the search parameter or parameters");
+    Console.WriteLine("1 Search by first letter");
+    Console.WriteLine("2 Search by last letter");
+    Console.WriteLine("3 search by the number of letters");
+    Console.WriteLine("4 search by partial match");
+    Console.WriteLine("1,2 search by first and last letter");
+    Console.WriteLine("1,2,3 search by first and last letter and number of letters");
     Console.WriteLine("* quit search\n");
-    string choise = Console.ReadLine();
+    string choice = Console.ReadLine();
     Console.WriteLine();
-    switch (choise)
+    switch (choice)
     {
         case "1":
 
@@ -47,7 +49,23 @@ do
 
                 if (firstletter != "*")
                 {
+                    cCount=0;
                     char first = firstletter [0];
+                    for (int i = 0; i < cities.Length; i++)
+                    {
+                        int j = 1;
+                        var cityName = cities[i];
+                        if (cityName[0] == first)
+                        {
+                            Console.WriteLine(cityName);
+                            starts.Append($"{j}.{cities[i]}; ");
+                            cCount++;
+                        }
+                        
+                    }   
+                    Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
+                    Console.WriteLine(starts);
+                    /*
                     Regex re = new Regex($"^{first}", RegexOptions.IgnoreCase);
                     int j = 1;
                     cCount = 0;
@@ -58,10 +76,11 @@ do
                             starts.Append($"{j}.{cities[i]}; ");
                             j++;
                         }
-                    Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
+                    */
+                    /*Console.WriteLine($"There are {cCount} cities starting with \"{first}\":");
                     Console.WriteLine(starts); 
                     Console.WriteLine();
-                    starts = new StringBuilder();
+                    starts = new StringBuilder();*/
                 }
                 else if (firstletter == "*")
                 {
@@ -168,6 +187,7 @@ do
 
                 if (part != "*")
                 {
+                    
                     Regex re4 = new Regex($"^.*{part}.*$", RegexOptions.IgnoreCase);
                     int j = 1;
                     cCount = 0;
@@ -191,6 +211,121 @@ do
                     menuPart = false;
                 }
             } while (menuPart);
+            break;
+
+        case "1,2":
+            bool menucombo2 = true;
+            do
+            {
+                Console.WriteLine("Please insert the first letter:");
+                Console.WriteLine("Type * to return to main menu");
+                Console.WriteLine();
+                string firstletter3 = Console.ReadLine();
+                if (firstletter3 == "*")
+                {
+                    menucombo2=false;
+                }
+                else if (firstletter3 != "*")
+                {
+                    Console.WriteLine("Please insert the last letter:");
+                    Console.WriteLine("Type * to return to main menu");
+                    Console.WriteLine();
+                    string lastletter3 = Console.ReadLine();
+                    Console.WriteLine();
+                    if (lastletter3 == "*")
+                    {
+                        menucombo2=false;
+                    }
+                    else if (lastletter3 !="*")
+                    {
+                            char first3 = firstletter3[0];
+                            char last3 = lastletter3[0];
+                            Regex re6 = new Regex($"^{first3}.*{last3}$", RegexOptions.IgnoreCase);
+                            int j = 1;
+                            cCount = 0;
+
+                            for (int i = 0; i < cities.Length; i++)
+
+                                if (re6.IsMatch(cities[i]))
+                                {
+                                    cCount++;
+                                    combo2.Append($"{j}.{cities[i]}; ");
+                                    j++;
+
+                                }
+                            Console.WriteLine($"There are {cCount} cities starting with \"{first3}\", ending with \"{last3}\":");
+                            Console.WriteLine(combo2);
+                            Console.WriteLine();
+                            combo2 = new StringBuilder();
+                    }
+                     
+
+                }
+            } while (menucombo2);
+            break;
+
+        case "1,2,3":
+            bool menucombo1 = true;
+            do
+            {
+                Console.WriteLine("Please insert the first letter:");
+                Console.WriteLine("Type * to return to main menu");
+                Console.WriteLine();
+                string firstletter2 = Console.ReadLine();
+                if (firstletter2 == "*")
+                {
+                    menucombo1=false;
+                }
+                else if (firstletter2 != "*")
+                { 
+                        Console.WriteLine("Please insert the last letter:");
+                        Console.WriteLine("Type * to return to main menu");
+                        Console.WriteLine();
+                        string lastletter2 = Console.ReadLine();
+                        Console.WriteLine();
+                        if (lastletter2 == "*")
+                        {
+                            menucombo1=false;
+                        }
+                        else if (lastletter2 !="*")
+                        {
+                            Console.WriteLine("Enter number of letters:");
+                            Console.WriteLine("Type * to return to main menu");
+                         Console.WriteLine();
+                            string letters2 = Console.ReadLine();
+                            Console.WriteLine();
+
+                            if (letters2 != "*")
+                            {
+                                char first2 = firstletter2[0];
+                                char last2 = lastletter2[0];
+                                int.TryParse((letters2), out int number2);
+                                Regex re5 = new Regex($"^{first2}[a-z]{{{number2-2}}}{last2}$", RegexOptions.IgnoreCase);
+                                int j = 1;
+                                cCount = 0;
+
+                                for (int i = 0; i < cities.Length; i++)
+
+                                if (re5.IsMatch(cities[i]))
+                                {
+                                    cCount++;
+                                    combo1.Append($"{j}.{cities[i]}; ");
+                                    j++;
+
+                                }
+                            Console.WriteLine($"There are {cCount} cities starting with \"{first2}\", ending with \"{last2}\" and containing exactly {letters2} letters:");
+                            Console.WriteLine(combo1);
+                            Console.WriteLine();
+                            combo1 = new StringBuilder();
+                        }
+                        else if (letters2 == "*")
+                        {
+                            menucombo1 = false;
+                        }
+                        }
+                        
+                }
+            } while (menucombo1);
             break;
 
         case "*":
