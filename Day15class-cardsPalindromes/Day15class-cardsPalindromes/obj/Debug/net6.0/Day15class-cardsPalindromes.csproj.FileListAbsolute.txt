@@ -1,0 +1,15 @@
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\bin\Debug\net6.0\Day15class-cardsPalindromes.exe
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\bin\Debug\net6.0\Day15class-cardsPalindromes.deps.json
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\bin\Debug\net6.0\Day15class-cardsPalindromes.runtimeconfig.json
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\bin\Debug\net6.0\Day15class-cardsPalindromes.dll
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\bin\Debug\net6.0\Day15class-cardsPalindromes.pdb
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.csproj.AssemblyReference.cache
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.AssemblyInfoInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.AssemblyInfo.cs
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.dll
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\refint\Day15class-cardsPalindromes.dll
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.pdb
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\Day15class-cardsPalindromes.genruntimeconfig.cache
+C:\Users\doral\source\repos\Side-Effects\Day15class-cardsPalindromes\Day15class-cardsPalindromes\obj\Debug\net6.0\ref\Day15class-cardsPalindromes.dll
