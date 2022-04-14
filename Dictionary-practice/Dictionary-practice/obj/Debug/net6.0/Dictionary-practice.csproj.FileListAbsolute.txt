@@ -1,0 +1,15 @@
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\bin\Debug\net6.0\Dictionary-practice.exe
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\bin\Debug\net6.0\Dictionary-practice.deps.json
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\bin\Debug\net6.0\Dictionary-practice.runtimeconfig.json
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\bin\Debug\net6.0\Dictionary-practice.dll
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\bin\Debug\net6.0\Dictionary-practice.pdb
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.csproj.AssemblyReference.cache
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.AssemblyInfoInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.AssemblyInfo.cs
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.csproj.CoreCompileInputs.cache
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.dll
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\refint\Dictionary-practice.dll
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.pdb
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\Dictionary-practice.genruntimeconfig.cache
+C:\Users\doral\source\repos\Side-Effects\Dictionary-practice\Dictionary-practice\obj\Debug\net6.0\ref\Dictionary-practice.dll

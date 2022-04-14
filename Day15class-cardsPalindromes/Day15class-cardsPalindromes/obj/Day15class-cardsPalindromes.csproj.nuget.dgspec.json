@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj": {}
+    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj": {
+    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj",
+        "projectUniqueName": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj",
         "projectName": "Day15class-cardsPalindromes",
-        "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj",
+        "projectPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes.csproj",
         "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\obj\\",
+        "outputPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day15class-cardsPalindromes\\Day15class-cardsPalindromes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",

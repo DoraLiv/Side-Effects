@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day16-lecture\\Day16-lecture\\Day16-lecture.csproj": {}
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Dictionary-practice\\Dictionary-practice\\Dictionary-practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day16-lecture\\Day16-lecture\\Day16-lecture.csproj": {
+    "C:\\Users\\doral\\source\\repos\\Side-Effects\\Dictionary-practice\\Dictionary-practice\\Dictionary-practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day16-lecture\\Day16-lecture\\Day16-lecture.csproj",
-        "projectName": "Day16-lecture",
-        "projectPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day16-lecture\\Day16-lecture\\Day16-lecture.csproj",
+        "projectUniqueName": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Dictionary-practice\\Dictionary-practice\\Dictionary-practice.csproj",
+        "projectName": "Dictionary-practice",
+        "projectPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Dictionary-practice\\Dictionary-practice\\Dictionary-practice.csproj",
         "packagesPath": "C:\\Users\\doral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doral\\Source\\Repos\\Side-Effects\\Day16-lecture\\Day16-lecture\\obj\\",
+        "outputPath": "C:\\Users\\doral\\source\\repos\\Side-Effects\\Dictionary-practice\\Dictionary-practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\doral\\AppData\\Roaming\\NuGet\\NuGet.Config",
